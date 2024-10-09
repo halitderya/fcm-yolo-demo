@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=My Python Script
+Comment=Run my Python script
+Exec=/home/iot/fcm-yolo-demo/new-env/bin/python3 /home/iot/fcm-yolo-demo/main.py
+Icon=python3
+Terminal=true
+Type=Application
